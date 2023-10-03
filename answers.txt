@@ -1,0 +1,2 @@
+What is the difference between a merge and a rebase?
+Answer: While a merge is non-destructive, a rebase is destructive. Another difference is that merge preserves history as it happened, but rebase rewrites it.
